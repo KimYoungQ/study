@@ -6,4 +6,4 @@ Spring boot
 
 
 ---
-* [내장 웹 서버 이해](https://github.com/KimYoungQ/study/blob/main/springboot/3_6)
+* [내장 웹 서버 이해](https://github.com/KimYoungQ/study/blob/main/springboot/3_6.md)
