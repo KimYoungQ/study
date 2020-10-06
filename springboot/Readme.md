@@ -13,3 +13,5 @@ Spring boot
 * [스프링 부트 활용 소개](https://github.com/KimYoungQ/study/blob/main/springboot/4_1.md)
 * [SpringApplication 1부](https://github.com/KimYoungQ/study/blob/main/springboot/4_2.md)
 * [SpringApplication 2부](https://github.com/KimYoungQ/study/blob/main/springboot/4_3.md)
+* [외부설정 1부](https://github.com/KimYoungQ/study/blob/main/springboot/4_4.md)
+* [외부설정 2부](https://github.com/KimYoungQ/study/blob/main/springboot/4_5.md)
