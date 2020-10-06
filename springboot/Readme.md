@@ -10,3 +10,4 @@ Spring boot
 * [내장 웹 서버 응용 - 컨테이너와 포트](https://github.com/KimYoungQ/study/blob/main/springboot/3_7.md)
 * [내장 웹 서버 응용 - HTTPS와 HTTPS2](https://github.com/KimYoungQ/study/blob/main/springboot/3_8.md)
 * [독립적으로 실행 가능한 JAR](https://github.com/KimYoungQ/study/blob/main/springboot/3_10.md)
+* [스프링 부트 활용 소개](https://github.com/KimYoungQ/study/blob/main/springboot/4_1.md)
