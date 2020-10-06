@@ -8,3 +8,4 @@ Spring boot
 ---
 * [내장 웹 서버 이해](https://github.com/KimYoungQ/study/blob/main/springboot/3_6.md)
 * [내장 웹 서버 응용 - 컨테이너와 포트](https://github.com/KimYoungQ/study/blob/main/springboot/3_7.md)
+* [내장 웹 서버 응용 - HTTPS와 HTTPS2](https://github.com/KimYoungQ/study/blob/main/springboot/3_8.md)
