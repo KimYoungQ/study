@@ -25,3 +25,4 @@ Spring boot
 * [스프링 웹 MVC 2부 - HttpMessageConverters](https://github.com/KimYoungQ/study/blob/main/springboot/4_13.md)
 * [스프링 웹 MVC 3부 - ViewResolve](https://github.com/KimYoungQ/study/blob/main/springboot/4_14.md)
 * [스프링 웹 MVC 4부 - 정적 리소스 지원](https://github.com/KimYoungQ/study/blob/main/springboot/4_15.md)
+* [스프링 웹 MVC 5부 - 웹JAR](https://github.com/KimYoungQ/study/blob/main/springboot/4_16.md)
