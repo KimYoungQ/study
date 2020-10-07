@@ -28,3 +28,4 @@ Spring boot
 * [스프링 웹 MVC 5부 - 웹JAR](https://github.com/KimYoungQ/study/blob/main/springboot/4_16.md)
 * [스프링 웹 MVC 6부 - index페이지와 파비콘](https://github.com/KimYoungQ/study/blob/main/springboot/4_17.md)
 * [스프링 웹 MVC 7부 - Thymeleaf](https://github.com/KimYoungQ/study/blob/main/springboot/4_18.md)
+* [스프링 웹 MVC 8부 - HtmlUnit](https://github.com/KimYoungQ/study/blob/main/springboot/4_19.md)
