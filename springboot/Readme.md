@@ -23,3 +23,4 @@ Spring boot
 * [Spring-Boot-Devtools](https://github.com/KimYoungQ/study/blob/main/springboot/4_11.md)
 * [스프링 웹 MVC 1부 - 소개](https://github.com/KimYoungQ/study/blob/main/springboot/4_12.md)
 * [스프링 웹 MVC 2부 - HttpMessageConverters](https://github.com/KimYoungQ/study/blob/main/springboot/4_13.md)
+* [스프링 웹 MVC 3부 - ViewResolve](https://github.com/KimYoungQ/study/blob/main/springboot/4_14.md)
