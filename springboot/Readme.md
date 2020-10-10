@@ -32,3 +32,4 @@ Spring boot
 * [스프링 웹 MVC 9부 - ExceptionHandler](https://github.com/KimYoungQ/study/blob/main/springboot/4_20.md)
 * [스프링 웹 MVC 10부 - Spring HATEOAS](https://github.com/KimYoungQ/study/blob/main/springboot/4_21.md)
 * [스프링 웹 MVC 11부 - CORS](https://github.com/KimYoungQ/study/blob/main/springboot/4_22.md)
+* [스프링 데이터 1부 - 소개](https://github.com/KimYoungQ/study/blob/main/springboot/4_23.md)
