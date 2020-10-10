@@ -36,4 +36,5 @@ Spring boot
 * [스프링 데이터 2부 - 인메모리 데이터베이스](https://github.com/KimYoungQ/study/blob/main/springboot/4_24.md)
 * [스프링 데이터 3부 - MySQL](https://github.com/KimYoungQ/study/blob/main/springboot/4_25.md)
 * [스프링 데이터 4부 - PostgreSQL](https://github.com/KimYoungQ/study/blob/main/springboot/4_26.md)
-* [스프링 데이터 4부 - Spring-Daga-JPA 연동](https://github.com/KimYoungQ/study/blob/main/springboot/4_27.md)
+* [스프링 데이터 4부 - Spring-Daga-JPA 개요](https://github.com/KimYoungQ/study/blob/main/springboot/4_27.md)
+* [스프링 데이터 4부 - Spring-Daga-JPA 연동](https://github.com/KimYoungQ/study/blob/main/springboot/4_28.md)
