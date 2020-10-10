@@ -34,3 +34,4 @@ Spring boot
 * [스프링 웹 MVC 11부 - CORS](https://github.com/KimYoungQ/study/blob/main/springboot/4_22.md)
 * [스프링 데이터 1부 - 소개](https://github.com/KimYoungQ/study/blob/main/springboot/4_23.md)
 * [스프링 데이터 2부 - 인메모리 데이터베이스](https://github.com/KimYoungQ/study/blob/main/springboot/4_24.md)
+* [스프링 데이터 3부 - MySQL](https://github.com/KimYoungQ/study/blob/main/springboot/4_25.md)
