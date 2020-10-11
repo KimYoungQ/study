@@ -44,4 +44,4 @@ Spring boot
 * [스프링 시큐리티 1부 Spring-boot-starter-security](https://github.com/KimYoungQ/study/blob/main/springboot/4_32.md)
 * [스프링 시큐리티 2부 시큐리티 설정 커스터마이징](https://github.com/KimYoungQ/study/blob/main/springboot/4_33.md)
 * [스프링 REST 클라이언트 1부 - RestTemplate과 WebClient](https://github.com/KimYoungQ/study/blob/main/springboot/4_34.md)
-* [스프링 REST 클라이언트 2부 - ](https://github.com/KimYoungQ/study/blob/main/springboot/4_35.md)
+* [스프링 REST 클라이언트 2부 - 커스터마이징](https://github.com/KimYoungQ/study/blob/main/springboot/4_35.md)
