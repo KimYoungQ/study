@@ -46,3 +46,5 @@ Spring boot
 * [스프링 REST 클라이언트 1부 - RestTemplate과 WebClient](https://github.com/KimYoungQ/study/blob/main/springboot/4_34.md)
 * [스프링 REST 클라이언트 2부 - 커스터마이징](https://github.com/KimYoungQ/study/blob/main/springboot/4_35.md)
 * [스프링 부트 Actuator 1부 - 소개](https://github.com/KimYoungQ/study/blob/main/springboot/5_1.md)
+* [스프링 부트 Actuator 2부 - JMX](https://github.com/KimYoungQ/study/blob/main/springboot/5_2.md)
+* [스프링 부트 Actuator 3부 - Spring-Boot-Admin](https://github.com/KimYoungQ/study/blob/main/springboot/5_3.md)
