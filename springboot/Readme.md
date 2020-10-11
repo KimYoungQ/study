@@ -42,3 +42,4 @@ Spring boot
 * [스프링 데이터 8부 - 데이터베이스 마이그레이션 툴](https://github.com/KimYoungQ/study/blob/main/springboot/4_30.md)
 * [스프링 데이터 12부 - 정리](https://github.com/KimYoungQ/study/blob/main/springboot/4_31.md)
 * [스프링 시큐리티 1부 Spring-boot-starter-security](https://github.com/KimYoungQ/study/blob/main/springboot/4_32.md)
+* [스프링 시큐리티 2부 시큐리티 설정 커스터마](https://github.com/KimYoungQ/study/blob/main/springboot/4_33.md)
