@@ -6,4 +6,4 @@ Spring MVC
 <br/>
 
 ---
-* [스프링 MVC 소개](https://github.com/KimYoungQ/study/blob/main/springboot/1_1.md)
+* [스프링 MVC 소개](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_1.md)
