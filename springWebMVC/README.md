@@ -11,3 +11,4 @@ Spring MVC
 * [스프링 MVC 서블릿 애플리케이션 개발](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_3.md)
 * [서블릿 리스너와 필터](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_4.md)
 * [서블릿 IoC 컨테이너 연동](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_5.md)
+* [서블릿 MVC 연동](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_6.md)
