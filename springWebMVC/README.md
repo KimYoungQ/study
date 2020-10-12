@@ -13,4 +13,4 @@ Spring MVC
 * [서블릿 IoC 컨테이너 연동](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_5.md)
 * [서블릿 MVC 연동](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_6.md)
 * [DispatcherServlet 1부](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_7.md)
-* [DispatcherServlet 3부 - ViewResolver](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_9.md)
+* [스프링 MVC 구성요소](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_10.md)
