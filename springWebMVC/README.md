@@ -18,4 +18,5 @@ Spring MVC
 * [@EnablcWebMvc](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_2.md)
 * [@WebMvcConfigurer](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_3.md)
 * [스프링 부트의 스프링 MVC 설정](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_4.md)
+* [스프링 부트 JSP](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_5.md)
 
