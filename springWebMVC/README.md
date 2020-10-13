@@ -15,4 +15,5 @@ Spring MVC
 * [DispatcherServlet 1부](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_7.md)
 * [스프링 MVC 구성요소](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_10.md)
 * [스프링 MVC 동작원리 정리](https://github.com/KimYoungQ/study/blob/main/springWebMVC/1_11.md)
-* [스프링 MVC 설정](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_1.md)
+* [@EnablcWebMvc](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_2.md)
+* [@WebMvcConfigurer](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_3.md)
