@@ -20,5 +20,6 @@ Spring MVC
 * [스프링 부트의 스프링 MVC 설정](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_4.md)
 * [스프링 부트 JSP](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_5.md)
 * [WebMvcConfigurer 1부 - Formatter](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_7.md)
+* [도메인 클래스 컨버터](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_8.md)
 
 
