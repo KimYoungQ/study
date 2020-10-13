@@ -19,4 +19,6 @@ Spring MVC
 * [@WebMvcConfigurer](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_3.md)
 * [스프링 부트의 스프링 MVC 설정](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_4.md)
 * [스프링 부트 JSP](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_5.md)
+* [WebMvcConfigurer 1부 - Formatter](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_7.md)
+
 
