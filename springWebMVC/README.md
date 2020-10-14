@@ -34,6 +34,7 @@ Spring MVC
 * [요청 맵핑하기 2부 URI 패턴](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_3.md)
 * [요청 맵핑하기 3부 미디어 타입 매핑](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_4.md)
 * [요청 맵핑하기 4부 헤더와 매개변수](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_5.md)
+* [요청 맵핑하기 5부 HEAD와 OPTIONS 요청 처리](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_6.md)
 
 
 
