@@ -32,7 +32,8 @@ Spring MVC
 * [스프링 MVC 활용 소개](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_1.md)
 * [요청 맵핑하기 1부 HTTP Method](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_2.md)
 * [요청 맵핑하기 2부 URI 패턴](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_3.md)
-* [요청 맵핑하기 2부 미디어 ](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_4.md)
+* [요청 맵핑하기 3부 미디어 타입 매핑](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_4.md)
+* [요청 맵핑하기 4부 헤더와 매개변수](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_5.md)
 
 
 
