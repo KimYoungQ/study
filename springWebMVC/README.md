@@ -26,6 +26,7 @@ Spring MVC
 * [리소스 핸들러](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_11.md)
 * [HTTP 메시지 컨버터](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_12.md)
 * [HTTP 메시지 컨버터 2부 - JSON](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_13.md)
+* [HTTP 메시지 컨버터 3부 - XML](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_14.md)
 
 
 
