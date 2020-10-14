@@ -29,6 +29,7 @@ Spring MVC
 * [HTTP 메시지 컨버터 3부 - XML](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_14.md)
 * [기타 WebMvcConfigurer 설정](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_15.md)
 * [스프링 MVC 설정 마무리](https://github.com/KimYoungQ/study/blob/main/springWebMVC/2_16.md)
+* [스프링 MVC 활용 소개](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_1.md)
 
 
 
