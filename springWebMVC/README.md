@@ -37,8 +37,8 @@ Spring MVC
 * [요청 맵핑하기 5부 HEAD와 OPTIONS 요청 처리](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_6.md)
 * [요청 맵핑하기 6부 커스텀 애노테이션](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_7.md)
 * [핸들러 메소드 2부 - URI 패턴](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_10.md)
-* [핸들러 메소드 2부 - @RequestMapping](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_11.md)
-
+* [핸들러 메소드 3부 - @RequestMapping](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_11.md)
+* [핸들러 메소드 부 - 폼 서브밋(타임리프)](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_12.md)
 
 
 
