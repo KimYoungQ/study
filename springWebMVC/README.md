@@ -35,6 +35,7 @@ Spring MVC
 * [요청 맵핑하기 3부 미디어 타입 매핑](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_4.md)
 * [요청 맵핑하기 4부 헤더와 매개변수](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_5.md)
 * [요청 맵핑하기 5부 HEAD와 OPTIONS 요청 처리](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_6.md)
+* [요청 맵핑하기 6부 커스텀 애노테이션](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_7.md)
 
 
 
