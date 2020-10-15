@@ -54,6 +54,7 @@ Spring MVC
 * [모델 @ModelAttribute](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_25.md)
 * [DataBinder - @InitBinder](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_26.md)
 * [예외 처리 핸들러- @ExceptionHandler](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_27.md)
+* [전역 컨트롤러 - @(Rest)ControllerAdvice](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_28.md)
 
 
 
