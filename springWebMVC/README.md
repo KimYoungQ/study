@@ -49,5 +49,6 @@ Spring MVC
 * [핸들러 메소드 12부 - Flash Attributes](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_20.md)
 * [핸들러 메소드 13부 - MultipartFile](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_21.md)
 * [핸들러 메소드 14부 - ResponseEntity](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_22.md)
+* [핸들러 메소드 15부 - @RequestBody & HttpEntity](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_23.md)
 
 
