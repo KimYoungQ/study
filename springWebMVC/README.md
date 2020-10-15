@@ -52,6 +52,7 @@ Spring MVC
 * [핸들러 메소드 15부 - @RequestBody & HttpEntity](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_23.md)
 * [핸들러 메소드 16부 - @ResponseBody & ResponseEntity](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_24.md)
 * [모델 @ModelAttribute](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_25.md)
+* [DataBinder - @InitBinder](https://github.com/KimYoungQ/study/blob/main/springWebMVC/3_26.md)
 
 
 
