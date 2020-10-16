@@ -7,3 +7,5 @@ Spring JPA
 
 ---
 * [관계형 데이터베이스와 자바](https://github.com/KimYoungQ/study/blob/main/springJPA/1_1.md)
+* [ORM 개요](https://github.com/KimYoungQ/study/blob/main/springJPA/1_2.md)
+
