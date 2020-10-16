@@ -8,4 +8,5 @@ Spring JPA
 ---
 * [관계형 데이터베이스와 자바](https://github.com/KimYoungQ/study/blob/main/springJPA/1_1.md)
 * [ORM 개요](https://github.com/KimYoungQ/study/blob/main/springJPA/1_2.md)
-* [JPA 프로그래밍 프로젝트 세팅](https://github.com/KimYoungQ/study/blob/main/springJPA/1_4.md)
+* [JPA 프로그래밍 - 프로젝트 세팅](https://github.com/KimYoungQ/study/blob/main/springJPA/1_4.md)
+* [JPA 프로그래밍 - Entity mapping](https://github.com/KimYoungQ/study/blob/main/springJPA/1_5.md)
