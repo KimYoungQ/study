@@ -10,3 +10,4 @@ Spring JPA
 * [ORM 개요](https://github.com/KimYoungQ/study/blob/main/springJPA/1_2.md)
 * [JPA 프로그래밍 - 프로젝트 세팅](https://github.com/KimYoungQ/study/blob/main/springJPA/1_4.md)
 * [JPA 프로그래밍 - Entity mapping](https://github.com/KimYoungQ/study/blob/main/springJPA/1_5.md)
+* [JPA 프로그래밍 - Value 타입 맵핑](https://github.com/KimYoungQ/study/blob/main/springJPA/1_6.md)
