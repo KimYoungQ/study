@@ -14,4 +14,4 @@ Spring JPA
 * [JPA 프로그래밍 - 1대다 맵핑](https://github.com/KimYoungQ/study/blob/main/springJPA/1_7.md)
 * [JPA 프로그래밍 - Cascade](https://github.com/KimYoungQ/study/blob/main/springJPA/1_8.md)
 * [JPA 프로그래밍 - 쿼리](https://github.com/KimYoungQ/study/blob/main/springJPA/1_9.md)
-* [JPA 프로그래밍 - ](https://github.com/KimYoungQ/study/blob/main/springJPA/1_10.md)
+* [JPA 프로그래밍 - 원리](https://github.com/KimYoungQ/study/blob/main/springJPA/1_10.md)
