@@ -12,3 +12,4 @@ Spring JPA
 * [JPA 프로그래밍 - Entity mapping](https://github.com/KimYoungQ/study/blob/main/springJPA/1_5.md)
 * [JPA 프로그래밍 - Value 타입 맵핑](https://github.com/KimYoungQ/study/blob/main/springJPA/1_6.md)
 * [JPA 프로그래밍 - 1대다 맵핑](https://github.com/KimYoungQ/study/blob/main/springJPA/1_7.md)
+* [JPA 프로그래밍 - Cascade](https://github.com/KimYoungQ/study/blob/main/springJPA/1_8.md)
