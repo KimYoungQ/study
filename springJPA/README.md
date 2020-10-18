@@ -16,4 +16,5 @@ Spring JPA
 * [JPA 프로그래밍 - 쿼리](https://github.com/KimYoungQ/study/blob/main/springJPA/1_9.md)
 * [JPA 프로그래밍 - 원리](https://github.com/KimYoungQ/study/blob/main/springJPA/1_10.md)
 * [스프링 데이터 Common 웹기능 1부 - 소개](https://github.com/KimYoungQ/study/blob/main/springJPA/2_13.md)
+* [스프링 데이터 Common 웹기능 1부 - DomainClassConverter](https://github.com/KimYoungQ/study/blob/main/springJPA/2_14.md)
 
