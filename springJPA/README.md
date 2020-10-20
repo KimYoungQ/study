@@ -19,4 +19,6 @@ Spring JPA
 * [스프링 데이터 Common 웹기능 2부 - DomainClassConverter](https://github.com/KimYoungQ/study/blob/main/springJPA/2_14.md)
 * [스프링 데이터 Common 웹기능 3부 - Pageable과 Sort 매개변수](https://github.com/KimYoungQ/study/blob/main/springJPA/2_15.md)
 * [스프링 데이터 Common 웹기능 3부 - HATEOAS](https://github.com/KimYoungQ/study/blob/main/springJPA/2_16.md)
+* [스프링 데이터 JPA 1부 - JpaRepository](https://github.com/KimYoungQ/study/blob/main/springJPA/3_1.md)
+* [스프링 데이터 JPA 1부 - JpaRepository.save()메소드](https://github.com/KimYoungQ/study/blob/main/springJPA/3_2.md)
 
