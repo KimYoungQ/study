@@ -7,3 +7,4 @@ Spring Security
 
 ---
 * [스프링 시큐리티 연동](https://github.com/KimYoungQ/study/blob/main/springJPA/1_3.md)
+* [스프링 시큐리티 설정](https://github.com/KimYoungQ/study/blob/main/springJPA/1_4.md)
