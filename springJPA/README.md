@@ -22,4 +22,6 @@ Spring JPA
 * [스프링 데이터 JPA 1부 - JpaRepository](https://github.com/KimYoungQ/study/blob/main/springJPA/3_1.md)
 * [스프링 데이터 JPA 2부 - JpaRepository.save()메소드](https://github.com/KimYoungQ/study/blob/main/springJPA/3_2.md)
 * [스프링 데이터 JPA 3부 - 쿼리 메소드](https://github.com/KimYoungQ/study/blob/main/springJPA/3_3.md)
+* [스프링 데이터 JPA 3부 - sort](https://github.com/KimYoungQ/study/blob/main/springJPA/3_4.md)
+
 
