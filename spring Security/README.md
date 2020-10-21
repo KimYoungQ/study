@@ -15,5 +15,6 @@ Spring Security
 * [테스트 2부](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_9.md)
 * [아키텍처](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_10.md)
 * [AuthenticationManager와 Authentication](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_11.md)
+* [ThreadLocal](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_12.md)
 
 
