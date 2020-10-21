@@ -13,6 +13,6 @@ Spring Security
 * [커스터마이징 - PasswordEncoder](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_7.md)
 * [테스트 1부](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_8.md)
 * [테스트 2부](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_9.md)
-* [아키텍쳐](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_10.md)
+* [아키텍처](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_10.md)
 
 
