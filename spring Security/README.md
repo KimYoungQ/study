@@ -6,11 +6,12 @@ Spring Security
 <br/>
 
 ---
-* [스프링 시큐리티 연동](https://github.com/KimYoungQ/study/blob/main/springJPA/1_3.md)
-* [스프링 시큐리티 설정](https://github.com/KimYoungQ/study/blob/main/springJPA/1_4.md)
-* [인메모리 유저 추가](https://github.com/KimYoungQ/study/blob/main/springJPA/1_5.md)
-* [JPA 연동](https://github.com/KimYoungQ/study/blob/main/springJPA/1_6.md)
-* [커스터마이징 - PasswordEncoder](https://github.com/KimYoungQ/study/blob/main/springJPA/1_7.md)
-* [테스트 1부](https://github.com/KimYoungQ/study/blob/main/springJPA/1_8.md)
-* [테스트 2부](https://github.com/KimYoungQ/study/blob/main/springJPA/1_9.md)
+* [스프링 시큐리티 연동](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_3.md)
+* [스프링 시큐리티 설정](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_4.md)
+* [인메모리 유저 추가](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_5.md)
+* [JPA 연동](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_6.md)
+* [커스터마이징 - PasswordEncoder](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_7.md)
+* [테스트 1부](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_8.md)
+* [테스트 2부](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_9.md)
+
 
