@@ -17,6 +17,6 @@ Spring Security
 * [AuthenticationManager와 Authentication](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_11.md)
 * [ThreadLocal](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_12.md)
 * [Authencation과 SecurityContextHodler](https://github.com/KimYoungQ/study/blob/main/spring%20Security/1_13.md)
-* [스프링 시큐리티 ignoring() 1부](https://github.com/KimYoungQ/study/blob/main/spring%20Security/3_1.md)
+* [스프링 시큐리티 ignoring()](https://github.com/KimYoungQ/study/blob/main/spring%20Security/3_1.md)
 
 
