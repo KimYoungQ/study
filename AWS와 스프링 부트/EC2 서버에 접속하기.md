@@ -18,7 +18,9 @@ putty는 pem 키로 사용이 안되며 pem 키를 ppk 파일로 변활을 해�
 
 <br/>
 
-### ppk 파일 생성 및 접속
+ppk 파일 생성 및 접속
+---
+
 ![puttygen](https://user-images.githubusercontent.com/45932388/110197051-31259580-7e8c-11eb-8e0b-1a3cf138584d.png)
 
 ![ppk파일생성_LI](https://user-images.githubusercontent.com/45932388/110197065-47335600-7e8c-11eb-96ee-0a88f3aba1cf.jpg)
@@ -61,6 +63,9 @@ Saved Sessions에 저장을 한뒤 open을 클릭하고 SSH 접속 알림이 등
 
 SSH 접속이 성공한 것을 확인할 수 있다.
 
+<br/>
 
+---
+[ 출처 ] : [스프링 부트와 AWS로 혼자 구현하는 웹서비스](http://www.yes24.com/Product/Goods/83849117?OzSrank=1)   
 
 
