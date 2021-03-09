@@ -94,6 +94,21 @@ select @@time_zone, now();
 
 <br/>
 
+### EC2에서 RDS 접근 확인
+
+```
+$ sudo yum install mysql
+```
+
+```
+$ mysql -u 계정 -p -h Host주소
+```
+
+```
+$ show databases;
+```
+
+![ec2 rds확인](https://user-images.githubusercontent.com/45932388/110468696-f9348180-811b-11eb-902b-015b2bed0c4b.PNG)
 ---
 [ 출처 ] : [스프링 부트와 AWS로 혼자 구현하는 웹서비스](http://www.yes24.com/Product/Goods/83849117?OzSrank=1)   
 
