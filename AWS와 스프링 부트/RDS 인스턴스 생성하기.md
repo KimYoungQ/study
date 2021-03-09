@@ -18,3 +18,8 @@ RDS 인스턴스 생성
 완료 후 생성까지 기다려준다.
 
 ![RDS인스턴스완료](https://user-images.githubusercontent.com/45932388/110438151-73074380-80f9-11eb-9a0b-b050383379b6.PNG)
+
+<br/>
+
+---
+[ 출처 ] : [스프링 부트와 AWS로 혼자 구현하는 웹서비스](http://www.yes24.com/Product/Goods/83849117?OzSrank=1)   
