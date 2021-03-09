@@ -81,9 +81,18 @@ SSH 접속이 성공한 것을 확인할 수 있다.
 
 EC2와 연동할 프로젝트가 java 11이므로 버전에 맞게 설치를 한다. 
 ```
-sudo amazon-linux-extras install java-openjdk11
+$ sudo amazon-linux-extras install java-openjdk11
 ```
 명령어를 입력해준다.
+
+```
+$ java -version
+```
+자바 버전을 확인해준다.
+
+![자바 버전](https://user-images.githubusercontent.com/45932388/110423768-04b88600-80e5-11eb-9fad-30eba303b7c1.PNG)
+
+
 
 <br/>
 
@@ -93,12 +102,40 @@ sudo amazon-linux-extras install java-openjdk11
 EC2 서버의 기본 타임존은 UTC이다. 세계 표준 시간으로 한국과 9시간 차이가 발생한다. 그러므로 한국시간(KST)로 수정해주어야 한다.
 
 ```
-sudo rm /etc/localtime
-sudo ln -s /usr/share/zoneinfo/Asia/Seoul /etc/localtime
+$ sudo rm /etc/localtime
+$ sudo ln -s /usr/share/zoneinfo/Asia/Seoul /etc/localtime
 ```
 
+변경된 타임존을 확인해준다.
+
+![한국시간변경](https://user-images.githubusercontent.com/45932388/110423800-1863ec80-80e5-11eb-9abb-dfb40ae35cfc.PNG)
+
+<br/>
+
+### Hostname 변경
 
 
+```
+$ sudo hostnamectl set-hostname 변경할 호스트네임
+```
+
+또는 인스턴스에서 선호하는 텍스트 편집기로 수정이 가능하다. 아래는 예시이다.
+
+```
+$ sudo vim /etc/sysconfig/network
+```
+
+에서 HOSTNAME = 변경할 Hostname을 입력해준다.
+
+```
+$ sudo reboot
+```
+
+서버를 재부팅 후 Hostname을 확인한다.
+
+```
+$ hostname
+```
 ---
 [ 출처 ] : [스프링 부트와 AWS로 혼자 구현하는 웹서비스](http://www.yes24.com/Product/Goods/83849117?OzSrank=1)   
 
