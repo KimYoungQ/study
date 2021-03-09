@@ -15,4 +15,6 @@ RDS 인스턴스 생성
 ![상세설정(계정)](https://user-images.githubusercontent.com/45932388/110437928-3cc9c400-80f9-11eb-8e9b-de18fab61eb4.PNG)
 ![상세설정(네트워크)](https://user-images.githubusercontent.com/45932388/110437920-3b000080-80f9-11eb-8dfd-2c038427e8ff.PNG)
 
+완료 후 생성까지 기다려준다.
+
 ![RDS인스턴스완료](https://user-images.githubusercontent.com/45932388/110438151-73074380-80f9-11eb-9a0b-b050383379b6.PNG)
