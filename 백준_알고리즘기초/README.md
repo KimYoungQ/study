@@ -10,4 +10,4 @@
 * [[10828] 스택](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B10828%5D%20%EC%8A%A4%ED%83%9D.md)
 * [[9093] 단어 뒤집기(스택 활용)](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B9093%5D%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0(%EC%8A%A4%ED%83%9D%20%ED%99%9C%EC%9A%A9).md)
 * [[9012] 괄호 쌍(스택 활용)](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B9012%5D%20%EA%B4%84%ED%98%B8%20%EC%8C%8D(%EC%8A%A4%ED%83%9D%20%ED%99%9C%EC%9A%A9).md)
-* []()
+* [[10430] 나머지](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B10430%5D%EB%82%98%EB%A8%B8%EC%A7%80.md)
