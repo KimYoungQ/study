@@ -13,3 +13,4 @@
 * [[10430] 나머지](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B10430%5D%EB%82%98%EB%A8%B8%EC%A7%80.md)
 * [[2609] 최대공약수와최소공배수](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B2609%5D%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 * [[1934] 최소공배수](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1934%5D%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+* []()
