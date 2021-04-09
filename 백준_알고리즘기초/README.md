@@ -15,3 +15,4 @@
 * [[1934] 최소공배수](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1934%5D%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 * [[1978] 소수찾기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1978%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
 * [[1929] 소수 구하기(에라토스테네스의 체)](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1929%5D%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4).md)
+* [[6588] 골드바흐의 추측](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B6588%5D%20%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.md)
