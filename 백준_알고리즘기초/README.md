@@ -14,3 +14,4 @@
 * [[2609] 최대공약수와최소공배수](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B2609%5D%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 * [[1934] 최소공배수](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1934%5D%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 * [[1978] 소수찾기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1978%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
+* [[1929] 소수 구하기(에라토스테네스의 체)](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1929%5D%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4).md)
