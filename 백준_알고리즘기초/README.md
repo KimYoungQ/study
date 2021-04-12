@@ -17,9 +17,10 @@
 * [[1929] 소수 구하기(에라토스테네스의 체)](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1929%5D%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4).md)
 * [[6588] 골드바흐의 추측](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B6588%5D%20%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.md)
 * [[10872] 팩토리얼](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B10872%5D%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.md)
-* [[9095] 1,2,3 더하기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B9095%5D%201%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
+
 <br/>
 
 ### 다이나믹 프로그래밍
 * [[1463] 1로 만들기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1463%5D%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 * [[11726] 2 x n 타일링](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B11726%5D%202%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.md)
+* [[9095] 1,2,3 더하기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B9095%5D%201%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
