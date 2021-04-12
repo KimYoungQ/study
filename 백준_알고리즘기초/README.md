@@ -21,4 +21,4 @@
 <br/>
 
 ### 다이나믹 프로그래밍
-* []
+* [[1463] 1로 만들기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1463%5D%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
