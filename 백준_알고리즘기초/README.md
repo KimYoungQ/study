@@ -24,3 +24,4 @@
 * [[1463] 1로 만들기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B1463%5D%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 * [[11726] 2 x n 타일링](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B11726%5D%202%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.md)
 * [[9095] 1,2,3 더하기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B9095%5D%201%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
+* [[11052]카드 구매하기](https://github.com/KimYoungQ/study/blob/main/%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B8%B0%EC%B4%88/%5B11052%5D%20%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.md)
